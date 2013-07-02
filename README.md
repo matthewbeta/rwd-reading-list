@@ -1,6 +1,6 @@
-# Responsive Web Design Reading List
+# A Responsive Web Design Reading List
 
-This is something I'm making for work. I encourage anyone who wants to to add to it. There are a million articles and I can't remember them all:
+This is something I'm making for work. I encourage anyone to add to it. There are a million articles that have shaped my understanding of this and I can't remember them all:
 
 ##Overview
 
