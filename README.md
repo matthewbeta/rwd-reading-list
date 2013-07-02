@@ -35,7 +35,7 @@
 
 - [Making Adioso Responsive](http://adioso.com/blog/2013/06/responsifying-adioso/)
 
--[How to approach RWD] (http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
+- [How to approach RWD](http://upstatement.com/blog/2012/01/how-to-approach-a-responsive-design/)
 
 ## Techniques we can benefit from
 
