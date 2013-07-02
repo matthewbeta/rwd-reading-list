@@ -99,5 +99,5 @@ This is something I'm making for work. I encourage anyone who wants to to add to
 - [How BBC handle their JS and have switched to micro libraries](http://responsivenews.co.uk/post/21021136520/how-we-build-our-javascript)
 
 
-- [Dramatically improve performance of RWD (basically have an image solution and minimize everything)](http://blog.netdna.com/developer/2-advanced-techniques-to-dramatically-increase-the-perform)ance-of-your-responsive-website/)
+- [Dramatically improve performance of RWD (basically have an image solution and minimize everything)](http://blog.netdna.com/developer/2-advanced-techniques-to-dramatically-increase-the-performance-of-your-responsive-website/)
 
