@@ -1,12 +1,16 @@
 # Responsive Web Design Reading List
 
-## Benefits
+This is something I'm making for work. I encourage anyone who wants to to add to it. There are a million articles and I can't remember them all:
+
+##Overview
+
+### Benefits
 
 - One codebase
 - Content parity
 - Device/platform agnostic
 
-## Challenges
+### Challenges
 
 - Images
 - Managing bandwidth
@@ -14,6 +18,8 @@
 - Compexity
 
 ## Responsive overviews
+
+- [The Dao of web design (C L A S S I C)](http://alistapart.com/article/responsive-web-design)
 
 - [The original article](http://alistapart.com/article/responsive-web-design)
 
